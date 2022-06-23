@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MontirKu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="txt_BuatAkun">Buat Akun</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_pw">Password</string>
+    <string name="txt_email">Email</string>
+    <string name="btn_regis">REGISTRASI</string>
+    <string name="email">Email</string>
+    <string name="txt_confirm_pw">Konfirmasi Password</string>
+    <string name="registrasi">Registrasi</string>
+
+    <string-array name="spn_pilihLayanan">
+        <item>Pilih Layanan</item>
+        <item>Ganti Oli</item>
+        <item>Ganti Aki</item>
+        <item>Ganti Ban</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="spn_pilihLayanan2">
+        <item>Pilih Layanan</item>
+        <item>Mesin Mati</item>
+        <item>Tambal Ban</item>
+        <item>Derek Motor</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
